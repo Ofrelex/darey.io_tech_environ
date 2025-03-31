@@ -23,13 +23,13 @@ This is a step-by-step guide for the installation of neccessary tools and creati
 * Storage: 20–50 GB of free space (varies by workload).
 * Processor: 1.8 GHz or faster (quad-core recommended)..
 
-![PC_Requirements](img\3_system_req.png)
+![PC_Requirements](img/3_system_req.png)
 
 ## Step 2: Download the Installer
 1. Visit the official [Visual Studio download page](https://code.visualstudio.com/)
 2. Click Download Visual Studio.
 
-![Downlaod_Page](img\1-vscode.png)
+![Downlaod_Page](img/1-vscode.png)
 
 ## Step 3: Run the Installer
 * Double-click the downloaded file.
@@ -49,7 +49,7 @@ This is a step-by-step guide for the installation of neccessary tools and creati
 *Sign in with a Microsoft account (optional but recommended for syncing settings).
 * Activate if using a paid edition (Community edition requires no activation).
 
-![Virtual_Studio_Home_Page](img\2-vscode.png)
+![Virtual_Studio_Home_Page](img/2-vscode.png)
 #
 #
 # Installation of Git
@@ -58,7 +58,7 @@ This is a step-by-step guide for the installation of neccessary tools and creati
 1. Go to [Git's Official WebSite](https://git-scm.com/downloads/win).
 2. Download the Windows installer.
 
-![Git_Download_Page](img\4-Git.png)
+![Git_Download_Page](img/4-Git.png)
 
 ## Step 2: Install Git
 1. Run the .exe file and follow the prompts. Keep default settings unless you need customization.
@@ -66,7 +66,7 @@ This is a step-by-step guide for the installation of neccessary tools and creati
     * Select "Use Git and optional Unix tools from the Command Prompt" if you want Git commands in CMD.
 2. Complete the installation.
 
-![Git_Installation](img\5-GitBash.png)
+![Git_Installation](img/5-GitBash.png)
 
 ## Step 3: Configure Git
 Set your username and email:
@@ -79,7 +79,7 @@ To check configuration:
 ```
 git config --list
 ```
-![Git_List](img\5-gitlist.png)
+![Git_List](img/5-gitlist.png)
 #
 #
 # Installation of Virtual Box (Oracle Virtual Box)
@@ -92,7 +92,7 @@ git config --list
     * macOS: .dmg file.
     * Linux: Choose your distribution (e.g., Ubuntu/Debian .deb or Fedora .rpm).
 
-![Virtual_Box](img\7-VirtualBox.png)
+![Virtual_Box](img/7-VirtualBox.png)
 
 
 ## Step 2: Install VirtualBox
@@ -102,7 +102,7 @@ git config --list
 4. Allow installation of device drivers when prompted (click Install).
 5. Click Finish to complete.
 
-![Virtual_Box_Home_Page](img\8-VirtualBox.png)
+![Virtual_Box_Home_Page](img/8-VirtualBox.png)
 #
 #
 # Ubuntu on Virtual Box (Windows)
@@ -112,7 +112,7 @@ git config --list
 2. Download the LTS (Long-Term Support) version (e.g., Ubuntu 22.04 LTS) for stability.
 3. Save the .iso file to your computer (e.g., in Downloads folder).
 
-![Ubuntu_Download_Page](img\9-Ubuntu-VBox.png)
+![Ubuntu_Download_Page](img/9-Ubuntu-VBox.png)
 
 ## Step 2: Create a New Virtual Machine
 
@@ -124,7 +124,7 @@ Name: Enter a name (e.g., "Ubuntu 22.04").
     * Version: Choose Ubuntu (64-bit).
     * Click Next.
 
-![Ubuntu](img\10-Ubuntu-Vbox.png)
+![Ubuntu](img/10-Ubuntu-Vbox.png)
 
 ## Step 3: Allocate Memory (RAM)
 1. Assign RAM to the VM (recommended: 4GB or 4096MB).
@@ -147,7 +147,7 @@ Name: Enter a name (e.g., "Ubuntu 22.04").
 4. Browse to your downloaded Ubuntu .iso file and select it.
 5. Click OK.
 
-![Ubuntu_ISO_mount](img\11-Ubuntu-ISO.png)
+![Ubuntu_ISO_mount](img/11-Ubuntu-ISO.png)
 
 ## Step 6: Start the VM and Install Ubuntu
 1. Select the VM and click Start (green arrow).
@@ -168,7 +168,7 @@ Name: Enter a name (e.g., "Ubuntu 22.04").
 3. VirtualBox will automatically eject the ISO. The Ubuntu login screen will appear.
 4. Log in with your username and password.
 
-![Ubuntu_Home_Page](img\12-Ubuntu-Desktop.png)
+![Ubuntu_Home_Page](img/12-Ubuntu-Desktop.png)
 #
 #
 # Creating of Github Account

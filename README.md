@@ -217,7 +217,7 @@ Name: Enter a name (e.g., "Ubuntu 22.04").
 ## Step 7: Confirm Account Activation
 1. Wait for a confirmation email titled "Welcome to Amazon Web Services".
 2. Log in to your AWS account: https://aws.amazon.com/console.
-3. Access AWS Free Tier account>
+3. Access AWS Free Tier account
 
 ![AWS_console](img/17-homepage.JPG)
 

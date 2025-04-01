@@ -23,13 +23,9 @@ This is a step-by-step guide for the installation of neccessary tools and creati
 * Storage: 20–50 GB of free space (varies by workload).
 * Processor: 1.8 GHz or faster (quad-core recommended)..
 
-![PC_Requirements](img/3_system_req.png)
-
 ## Step 2: Download the Installer
 1. Visit the official [Visual Studio download page](https://code.visualstudio.com/)
 2. Click Download Visual Studio.
-
-![Downlaod_Page](img/1-vscode.png)
 
 ## Step 3: Run the Installer
 * Double-click the downloaded file.
@@ -58,15 +54,11 @@ This is a step-by-step guide for the installation of neccessary tools and creati
 1. Go to [Git's Official WebSite](https://git-scm.com/downloads/win).
 2. Download the Windows installer.
 
-![Git_Download_Page](img/4-Git.png)
-
 ## Step 2: Install Git
 1. Run the .exe file and follow the prompts. Keep default settings unless you need customization.
     * Choose Git Bash as your terminal (recommended).
     * Select "Use Git and optional Unix tools from the Command Prompt" if you want Git commands in CMD.
 2. Complete the installation.
-
-![Git_Installation](img/5-GitBash.png)
 
 ## Step 3: Configure Git
 Set your username and email:
@@ -92,9 +84,6 @@ git config --list
     * macOS: .dmg file.
     * Linux: Choose your distribution (e.g., Ubuntu/Debian .deb or Fedora .rpm).
 
-![Virtual_Box](img/7-VirtualBox.png)
-
-
 ## Step 2: Install VirtualBox
 1. Double-click the downloaded .exe file.
 2. Click Next > Next.
@@ -112,8 +101,6 @@ git config --list
 2. Download the LTS (Long-Term Support) version (e.g., Ubuntu 22.04 LTS) for stability.
 3. Save the .iso file to your computer (e.g., in Downloads folder).
 
-![Ubuntu_Download_Page](img/9-Ubuntu-VBox.png)
-
 ## Step 2: Create a New Virtual Machine
 
 1. Open Oracle VirtualBox on your Windows PC.
@@ -123,8 +110,6 @@ Name: Enter a name (e.g., "Ubuntu 22.04").
     * Type: Select Linux.
     * Version: Choose Ubuntu (64-bit).
     * Click Next.
-
-![Ubuntu](img/10-Ubuntu-Vbox.png)
 
 ## Step 3: Allocate Memory (RAM)
 1. Assign RAM to the VM (recommended: 4GB or 4096MB).
@@ -146,8 +131,6 @@ Name: Enter a name (e.g., "Ubuntu 22.04").
 3. Click the CD/DVD icon next to "Optical Drive" > Choose a disk file.
 4. Browse to your downloaded Ubuntu .iso file and select it.
 5. Click OK.
-
-![Ubuntu_ISO_mount](img/11-Ubuntu-ISO.png)
 
 ## Step 6: Start the VM and Install Ubuntu
 1. Select the VM and click Start (green arrow).
@@ -176,13 +159,9 @@ Name: Enter a name (e.g., "Ubuntu 22.04").
 1. Open web browser (Chrome, Firefox, Edge, etc.).
 2. Visit [GitHub’s official page](https://github.com)
 
-![Github_Home_Page](img/13-home-page.png)
-
 ## Step 2: Fill the signup page
 1. Type a valid email address you can access (e.g., leolex7693@gmail.com).
 2. Enter password and username
-
-![Signup_Page](img/14-signup.png)
 
 ## Step 3: Verify Your Account
 1. Complete the CAPTCHA to prove you’re not a robot.

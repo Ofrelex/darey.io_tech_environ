@@ -176,4 +176,48 @@ Name: Enter a name (e.g., "Ubuntu 22.04").
 
 ![Githu_Dashboard](img/15-github-home.png)
 
-Creating of Amazon Web Services (AWS) Account
+#
+#
+# Creating of Amazon Web Services (AWS) Account
+## Step 1: Visit the AWS Sign-Up Page
+1. Go to the [AWS official homepage](https://aws.amazon.com/free/) for free Tier.
+2. Click Create an AWS Account (top-right corner).
+
+## Step 2: Enter Account Details
+1. Email Address: Use a valid email (e.g., ofrelex@gmail.com).
+2. Click Verify email address.
+    * AWS will send a verification code to your email.
+3. Enter the verification code from the email.
+4. Click Continue.
+
+## Step 3: Add Contact Information
+1. Account Type: Select Personal (for individual use) or Professional (for business).
+2. Fill in your Full Name, Phone Number, and Country/Region.
+3. Click Continue.
+
+## Step 4: Add Payment Information
+1. Credit/Debit Card: Enter card details (required for verification, even for the Free Tier).
+2. AWS may charge $1 temporarily for validation (refunded later).
+3. Billing Address: Fill in your address.
+4. Click Verify and Continue.
+
+## Step 5: Identity Verification
+1. AWS will verify your identity via phone call or SMS.
+2. Select your country code and enter your phone number.
+3. Click Send SMS or Call Me Now.
+4. Enter the PIN you receive.
+5. Click Continue.
+
+## Step 6: Select a Support Plan
+1. Choose the Basic (Free) Support Plan.
+    * This includes 24/7 customer service and access to forums.
+    * Paid plans (Developer/Business) cost extra and are optional.
+2. Click Complete sign up.
+
+## Step 7: Confirm Account Activation
+1. Wait for a confirmation email titled "Welcome to Amazon Web Services".
+2. Log in to your AWS account: https://aws.amazon.com/console.
+3. Access AWS Free Tier account>
+
+![AWS_console](img/17-homepage.JPG)
+
